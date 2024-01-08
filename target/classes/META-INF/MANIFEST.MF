@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Bhavani sankar
+Build-Jdk: 20.0.2
+Implementation-Title: spring-aop-executiontime-tracker
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.web
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-aop-executiontime-tracker
+Created-By: Maven Integration for Eclipse
+

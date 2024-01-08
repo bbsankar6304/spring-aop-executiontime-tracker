@@ -10,4 +10,5 @@ public class SpringAopExecutionTimeTrackerApplication {
 		SpringApplication.run(SpringAopExecutionTimeTrackerApplication.class, args);
 	}
 
+	
 }
